@@ -2,13 +2,11 @@
 
 LIST_FILE="list"
 DL_SCRIPT="./download"
-
 # 检查是否存在 list 文件
 if [ ! -f "$LIST_FILE" ]; then
   echo "没有找到 list 文件！"
   exit 1
 fi
-
 # 检查 download 脚本是否存在
 if [ ! -x "$DL_SCRIPT" ]; then
   echo "没有找到可执行的 download 脚本！"
