@@ -4,7 +4,8 @@
 
 ## 项目简介：
 
-本项目旨在，更加便捷的使用glibc-all-in-one(https://github.com/matrix1001/glibc-all-in-one)对赛题进行patch，目前只支持amd64、i386程序的自动化patch
+本项目旨在，更加便捷的使用glibc-all-in-one(https://github.com/matrix1001/glibc-all-in-one)
+对赛题进行patch，目前只支持amd64、i386程序的自动化patch
 
 ------
 
