@@ -94,9 +94,10 @@ cp ./glibcpatch.sh /usr/local/bin/
 
 ## 使用示范：
 
-![image-20250425113220300](/Users/keason/Library/Application Support/typora-user-images/image-20250425113220300.png)
+<img width="694" alt="Termius 2025-04-25 11 32 18" src="https://github.com/user-attachments/assets/9e882629-0b74-4eee-aa15-84308002c0a5" />
+<img width="621" alt="Termius 2025-04-25 11 33 39" src="https://github.com/user-attachments/assets/c32c9b9f-1cb7-47e6-a7cb-c7356fa332dc" />
+<img width="655" alt="Termius 2025-04-25 11 32 56" src="https://github.com/user-attachments/assets/669b0069-16fd-4b34-92e4-b41fb94b109f" />
 
-![image-20250425113257697](/Users/keason/Library/Application Support/typora-user-images/image-20250425113257697.png)
 
-![image-20250425113341905](/Users/keason/Library/Application Support/typora-user-images/image-20250425113341905.png)
+
 
